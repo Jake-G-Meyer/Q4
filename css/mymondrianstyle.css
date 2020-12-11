@@ -1,0 +1,109 @@
+body, html {
+    background-color: #f6f6f6;
+}
+#painting {
+    background-color: #fff4db;
+    width: 400px;
+    height: 400px;
+    margin-top: 30px;
+    margin-left: auto;
+    margin-right: auto;
+    box-shadow: 10px 10px 0px #8d8d8d;
+}
+#toprow{
+	height:100px;
+}
+#secondrow{
+	height:90px;
+}
+#thirdrow{
+	height:90px;
+}
+#gravyrow{
+	height:90px;
+}
+.nextrow{
+	height:10px;
+	width:400px;
+	background-color:black;
+}
+#column1{
+}
+#leftcolumn{
+}
+#middlecolumn{
+}
+.greenone{
+	height:100px;
+	width:195px;
+}
+.hundredbyten{
+	height:100px;
+	width:10px;
+}
+.tinybox{
+	height:40px;
+	width:30px;
+}
+.smalldiv{
+	height:10px;
+	width:30px;
+}
+.ninetybyten{
+	height:90px;
+	width:10px;
+}
+.smallerbox{
+	height:90px;
+	width:250px;
+}
+.leftbox{
+	height:90px;
+	width:100px;
+}
+.endboxe{
+	height:40px;
+	width:25px;
+}
+.tenbythirtyfive{
+	height:10px;
+	width:25px;
+}
+.cyanbox{
+	height:40px;
+	width:330px;
+}
+.tenbythreethirty{
+	height:10px;
+	width:330px;
+}
+.bigboybox{
+	height:90px;
+	width:100px;
+}
+.lowerbox{
+	height:40px;
+	width:145px;
+}
+.tenbyonefourfive{
+	height:10px;
+	width:145px;
+}
+.green{
+	background-color:#6ADB4B;
+}
+.darkgreen{
+	background-color:#174F1D;
+}
+.cyan{
+	background-color:#77EBDC;
+}
+.black{
+	background-color:black;
+}
+.right{
+	float:right;
+}
+.left{
+	float:left;
+}
